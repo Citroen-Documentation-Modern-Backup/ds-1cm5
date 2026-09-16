@@ -1,0 +1,28 @@
+{
+ "ref": "040104456213A",
+ "refDisplay": "0401 04 456213A",
+ "title": "AMPLIFICATEUR DE FREINAGE RACCORDS",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F6S",
+   "fctId": "FCT0044"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F6S",
+   "fctId": "FCT0044"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6S",
+   "fctId": "FCT0044"
+  }
+ ]
+}

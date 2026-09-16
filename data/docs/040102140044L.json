@@ -1,0 +1,18 @@
+{
+ "ref": "040102140044L",
+ "refDisplay": "0401 02 140044L",
+ "title": "INJECTEURS - FAISCEAU INJECTION",
+ "nature": "",
+ "applicability": "BICARBURATION GNV JUSQU’A OPR 10065",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  }
+ ]
+}

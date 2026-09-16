@@ -1,0 +1,18 @@
+{
+ "ref": "040106183006A",
+ "refDisplay": "0401 06 183006A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "BICARBURATION GPL OU BICARBURATION GNV",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0011"
+  }
+ ]
+}

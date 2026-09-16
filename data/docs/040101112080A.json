@@ -1,0 +1,18 @@
+{
+ "ref": "040101112080A",
+ "refDisplay": "0401 01 112080A",
+ "title": "CULASSE - COUVRE CULASSE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 10244",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F2X",
+   "fctId": "FCT0006"
+  }
+ ]
+}

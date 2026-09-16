@@ -1,0 +1,28 @@
+{
+ "ref": "040107741512A",
+ "refDisplay": "0401 07 741512A",
+ "title": "BERCEAU AV",
+ "nature": "",
+ "applicability": "BVM BE4R",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F6S",
+   "fctId": "FCT0109"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F6S",
+   "fctId": "FCT0109"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6S",
+   "fctId": "FCT0109"
+  }
+ ]
+}

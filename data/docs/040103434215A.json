@@ -1,0 +1,28 @@
+{
+ "ref": "040103434215A",
+ "refDisplay": "0401 03 434215A",
+ "title": "BARRES TORSION AVANT RESSORT",
+ "nature": "",
+ "applicability": "SUSPENSION NORMALE REHAUSSEE DEPUIS DAM 10066FL OU  DEPUIS DAM 09457FV OU  DEPUIS DAM 11991UZ OU SUSPENSION RENFORCEE AV ET AR DEPUIS DAM 10066FL OU  DEPUIS DAM 09457FV OU  DEPUIS DAM 11991UZ",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F6S",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F6S",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6S",
+   "fctId": "FCT0027"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "ref": "040104451512T",
+ "refDisplay": "0401 04 451512T",
+ "title": "FREINS ARRIERE TAMBOUR CYLINDRE SEGMENTS",
+ "nature": "",
+ "applicability": "ANTI-BLOCAGE ROUE ET SANS SYSTEME ESP",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F3U",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F3U",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F3U",
+   "fctId": "FCT0041"
+  }
+ ]
+}

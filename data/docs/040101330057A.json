@@ -1,0 +1,18 @@
+{
+ "ref": "040101330057A",
+ "refDisplay": "0401 01 330057A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM BE4 L ET CP 19 X 72 ET FAM AUTOMOBILES (MOTRICITE / RENFORCEE)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F2X",
+   "fctId": "FCT0017"
+  }
+ ]
+}

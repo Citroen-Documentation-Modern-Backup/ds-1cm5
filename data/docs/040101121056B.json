@@ -1,0 +1,23 @@
+{
+ "ref": "040101121056B",
+ "refDisplay": "0401 01 121056B",
+ "title": "VILEBREQUIN",
+ "nature": "",
+ "applicability": " DEPUIS OPR 13454",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0FBW",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0FBW",
+   "fctId": "FCT0005"
+  }
+ ]
+}

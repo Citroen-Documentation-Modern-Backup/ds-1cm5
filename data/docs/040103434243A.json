@@ -1,0 +1,28 @@
+{
+ "ref": "040103434243A",
+ "refDisplay": "0401 03 434243A",
+ "title": "BARRES TORSION AVANT RESSORT",
+ "nature": "",
+ "applicability": "SUSPENSION NORMALE REHAUSSEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F3U",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F3U",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F3U",
+   "fctId": "FCT0027"
+  }
+ ]
+}

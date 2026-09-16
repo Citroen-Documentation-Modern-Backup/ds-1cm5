@@ -1,0 +1,18 @@
+{
+ "ref": "040101241060A",
+ "refDisplay": "0401 01 241060A",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "1 VENTILATEUR 2 VITESSES 140W AERO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0FBX",
+   "fctId": "FCT0009"
+  }
+ ]
+}

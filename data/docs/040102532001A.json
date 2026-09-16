@@ -1,0 +1,18 @@
+{
+ "ref": "040102532001A",
+ "refDisplay": "0401 02 532001A",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "SANS REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6P",
+   "fctId": "FCT0303"
+  }
+ ]
+}

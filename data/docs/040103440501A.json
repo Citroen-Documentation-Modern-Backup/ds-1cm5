@@ -1,0 +1,18 @@
+{
+ "ref": "040103440501A",
+ "refDisplay": "0401 03 440501A",
+ "title": "CANALISATION TUYAU HP/BP SERVO",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6P",
+   "fctId": "FCT0339"
+  }
+ ]
+}

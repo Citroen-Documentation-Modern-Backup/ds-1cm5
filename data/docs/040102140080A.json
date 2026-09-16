@@ -1,0 +1,28 @@
+{
+ "ref": "040102140080A",
+ "refDisplay": "0401 02 140080A",
+ "title": "INJECTEURS - FAISCEAU INJECTION",
+ "nature": "",
+ "applicability": "DEPOL CEE 2000 (MOTEUR) ET SYSTEME INJECTION LUCAS-DIESEL OU DEPOL CEE 2000 (MOTEUR) ET SYSTEME INJECTION DELPHI",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F7H",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F7H",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F7H",
+   "fctId": "FCT0010"
+  }
+ ]
+}

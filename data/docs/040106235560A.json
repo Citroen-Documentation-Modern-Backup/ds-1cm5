@@ -1,0 +1,28 @@
+{
+ "ref": "040106235560A",
+ "refDisplay": "0401 06 235560A",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": "RADIATEUR EP:27 - 21,3 DM2 MBA HP",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F7H",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F7H",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F7H",
+   "fctId": "FCT0009"
+  }
+ ]
+}

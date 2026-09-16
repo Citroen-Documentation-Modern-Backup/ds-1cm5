@@ -1,0 +1,28 @@
+{
+ "ref": "040103440082A",
+ "refDisplay": "0401 03 440082A",
+ "title": "RESERVOIR POMPE DIRECTION",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 10926",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F3N",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F3N",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F3N",
+   "fctId": "FCT0339"
+  }
+ ]
+}

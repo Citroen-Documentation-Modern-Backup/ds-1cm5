@@ -1,0 +1,18 @@
+{
+ "ref": "040101002009A",
+ "refDisplay": "0401 01 002009A",
+ "title": "ENSEMBLE MOTEUR",
+ "nature": "",
+ "applicability": "BICARBURATION GPL OU BICARBURATION GNV",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  }
+ ]
+}

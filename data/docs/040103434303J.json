@@ -1,0 +1,18 @@
+{
+ "ref": "040103434303J",
+ "refDisplay": "0401 03 434303J",
+ "title": "AMORTISSEURS SUSPENSION ARRIERE",
+ "nature": "",
+ "applicability": " DEPUIS DAM 1211077",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0032"
+  }
+ ]
+}

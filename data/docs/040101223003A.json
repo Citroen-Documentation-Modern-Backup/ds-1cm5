@@ -1,0 +1,18 @@
+{
+ "ref": "040101223003A",
+ "refDisplay": "0401 01 223003A",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": " JUSQU’A MOTEUR 4717577",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0008"
+  }
+ ]
+}

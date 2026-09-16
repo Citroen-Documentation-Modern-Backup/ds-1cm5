@@ -1,0 +1,18 @@
+{
+ "ref": "040103440005C",
+ "refDisplay": "0401 03 440005C",
+ "title": "POMPE ASSISTANCE DIRECTION",
+ "nature": "",
+ "applicability": " DEPUIS OPR 10661 JUSQU’A OPR 14296",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0339"
+  }
+ ]
+}

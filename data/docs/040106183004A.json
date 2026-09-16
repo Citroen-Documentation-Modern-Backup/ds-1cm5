@@ -1,0 +1,18 @@
+{
+ "ref": "040106183004A",
+ "refDisplay": "0401 06 183004A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "DEPOLLUTION EURO 4(MOTEUR) DEPUIS DAM 1211077",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0011"
+  }
+ ]
+}

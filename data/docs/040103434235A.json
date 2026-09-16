@@ -1,0 +1,18 @@
+{
+ "ref": "040103434235A",
+ "refDisplay": "0401 03 434235A",
+ "title": "BARRES TORSION AVANT RESSORT",
+ "nature": "",
+ "applicability": "SUSPENSION RENFORCEE AV ET AR OU SUSPENSION NORMALE REHAUSSEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F2X",
+   "fctId": "FCT0027"
+  }
+ ]
+}

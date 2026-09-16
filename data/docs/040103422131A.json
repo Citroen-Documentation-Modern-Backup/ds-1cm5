@@ -1,0 +1,18 @@
+{
+ "ref": "040103422131A",
+ "refDisplay": "0401 03 422131A",
+ "title": "TRAVERSES SUSP AR BARRES RESSORT",
+ "nature": "",
+ "applicability": " SAUF LIAISON AU SOL 1000KG",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0FBX",
+   "fctId": "FCT0031"
+  }
+ ]
+}

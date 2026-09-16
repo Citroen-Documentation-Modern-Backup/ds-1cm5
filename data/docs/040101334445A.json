@@ -1,0 +1,18 @@
+{
+ "ref": "040101334445A",
+ "refDisplay": "0401 01 334445A",
+ "title": "LIGNE SECONDAIRE BVM",
+ "nature": "",
+ "applicability": "BVM BE4R ET BVM BE4 L ET CP 19 X 70 JUSQU’A OPR 10585 OU BVM BE4R ET BVM BE4 L ET CP 19 X 70 JUSQU’A OPR 10585",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F2X",
+   "fctId": "FCT0017"
+  }
+ ]
+}

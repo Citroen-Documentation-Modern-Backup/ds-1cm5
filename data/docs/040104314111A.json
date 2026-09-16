@@ -1,0 +1,18 @@
+{
+ "ref": "040104314111A",
+ "refDisplay": "0401 04 314111A",
+ "title": "PEDALE DE FREIN PEDALIER CONTACTEUR STOP",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE JUSQU’A OPR 09890",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F2X",
+   "fctId": "FCT0047"
+  }
+ ]
+}

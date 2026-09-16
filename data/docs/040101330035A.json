@@ -1,0 +1,28 @@
+{
+ "ref": "040101330035A",
+ "refDisplay": "0401 01 330035A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "CP 19 X 77 ET BVM BE4 J ET DIFFERENTIEL 77 ET CT 19 X 16 SAUF FAM AUTOMOBILES (MOTRICITE / RENFORCEE)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F6S",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F6S",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6S",
+   "fctId": "FCT0017"
+  }
+ ]
+}

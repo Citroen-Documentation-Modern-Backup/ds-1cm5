@@ -1,0 +1,18 @@
+{
+ "ref": "040105501105C",
+ "refDisplay": "0401 05 501105C",
+ "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE ET BICARBURATION GNV DEPOLLUE DEPUIS OPR 10920",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0308"
+  }
+ ]
+}

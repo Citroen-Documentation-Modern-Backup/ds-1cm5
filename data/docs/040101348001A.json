@@ -1,0 +1,23 @@
+{
+ "ref": "040101348001A",
+ "refDisplay": "0401 01 348001A",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 09673",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6P",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  }
+ ]
+}

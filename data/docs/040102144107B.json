@@ -1,0 +1,18 @@
+{
+ "ref": "040102144107B",
+ "refDisplay": "0401 02 144107B",
+ "title": "CALCULATEUR CAPTEUR ALIMENTATION",
+ "nature": "",
+ "applicability": "BICARBURATION GPL DEPUIS OPR 10066",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "ref": "040104371125L",
+ "refDisplay": "0401 04 371125L",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVM BE4R ET ESP BOSCH 8 0 ET FAM AUTOMOBILES (MOTRICITE / RENFORCEE) OU BVM BE4R ET ESP BOSCH 8 0 ET FAM AUTOMOBILES (MOTRICITE / RENFORCEE)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F6S",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F6S",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6S",
+   "fctId": "FCT0022"
+  }
+ ]
+}

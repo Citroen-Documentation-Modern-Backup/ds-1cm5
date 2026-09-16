@@ -1,0 +1,18 @@
+{
+ "ref": "040103434303A",
+ "refDisplay": "0401 03 434303A",
+ "title": "AMORTISSEURS SUSPENSION ARRIERE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 10338",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0032"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "ref": "B3FG4MP0",
+ "refDisplay": "B3FG4MP0",
+ "title": "Dépose - repose : capteur gyromètre  Accéléromètre (/)",
+ "nature": "Dépose-pose",
+ "applicability": "AVEC SYSTEME ESP DEPUIS OPR 9856",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F6S",
+   "fctId": "FCT0340"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F6S",
+   "fctId": "FCT0340"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6S",
+   "fctId": "FCT0340"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F2X",
+   "fctId": "FCT0340"
+  }
+ ]
+}

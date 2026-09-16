@@ -1,0 +1,28 @@
+{
+ "ref": "040103440080B",
+ "refDisplay": "0401 03 440080B",
+ "title": "RESERVOIR POMPE DIRECTION",
+ "nature": "",
+ "applicability": " DEPUIS OPR 10927 JUSQU’A OPR 11024",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F3U",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F3U",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F3U",
+   "fctId": "FCT0339"
+  }
+ ]
+}

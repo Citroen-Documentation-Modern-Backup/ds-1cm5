@@ -1,0 +1,23 @@
+{
+ "ref": "040104371106A",
+ "refDisplay": "0401 04 371106A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVM MA ET ANTI-BLOCAGE ROUE ET ABS BOSCH 5 3 DEPUIS OPR 09948",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6P",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0022"
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "ldp": "1CM5",
+ "label": "BERLINGO (M59)",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DCF",
+     "lib": "BREAK FAMILIALE 5 PORTES"
+    },
+    {
+     "val": "B0DCL",
+     "lib": "BREAK LOISIRS"
+    },
+    {
+     "val": "B0DGF",
+     "lib": "FOURGONNETTE FAMILIALE"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FBX",
+     "lib": "1,6 HDi 75 (DV6ETED M)"
+    },
+    {
+     "val": "B0F6P",
+     "lib": "1.1 i (TU1JP)"
+    },
+    {
+     "val": "B0FS1",
+     "lib": "1.4 i 75 (TU3A)"
+    },
+    {
+     "val": "B0F6Q",
+     "lib": "1.4 i 75 (TU3JP)"
+    },
+    {
+     "val": "B0F3U",
+     "lib": "1.6 HDi 75"
+    },
+    {
+     "val": "B0F3N",
+     "lib": "1.6 HDi 92 (DV6ATED4)"
+    },
+    {
+     "val": "B0FBW",
+     "lib": "1.6 HDi 92 (DV6DTED M)"
+    },
+    {
+     "val": "B0F6S",
+     "lib": "1.6 i 16v 110 (TU5JP4)"
+    },
+    {
+     "val": "B0F7H",
+     "lib": "1.9 D 71 (DW8B)"
+    },
+    {
+     "val": "B0F2X",
+     "lib": "2.0 HDi 90"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DCF&B0F=B0FS1",
+   "selections": {
+    "B0D": "B0DCF",
+    "B0F": "B0FS1"
+   },
+   "label": "BREAK FAMILIALE 5 PORTES · 1.4 i 75 (TU3A)"
+  },
+  {
+   "key": "B0D=B0DCF&B0F=B0F3U",
+   "selections": {
+    "B0D": "B0DCF",
+    "B0F": "B0F3U"
+   },
+   "label": "BREAK FAMILIALE 5 PORTES · 1.6 HDi 75"
+  },
+  {
+   "key": "B0D=B0DCF&B0F=B0F3N",
+   "selections": {
+    "B0D": "B0DCF",
+    "B0F": "B0F3N"
+   },
+   "label": "BREAK FAMILIALE 5 PORTES · 1.6 HDi 92 (DV6ATED4)"
+  },
+  {
+   "key": "B0D=B0DCF&B0F=B0FBW",
+   "selections": {
+    "B0D": "B0DCF",
+    "B0F": "B0FBW"
+   },
+   "label": "BREAK FAMILIALE 5 PORTES · 1.6 HDi 92 (DV6DTED M)"
+  },
+  {
+   "key": "B0D=B0DCF&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0DCF",
+    "B0F": "B0F6S"
+   },
+   "label": "BREAK FAMILIALE 5 PORTES · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0DCF&B0F=B0F7H",
+   "selections": {
+    "B0D": "B0DCF",
+    "B0F": "B0F7H"
+   },
+   "label": "BREAK FAMILIALE 5 PORTES · 1.9 D 71 (DW8B)"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0FS1",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0FS1"
+   },
+   "label": "BREAK LOISIRS · 1.4 i 75 (TU3A)"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0F3U",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0F3U"
+   },
+   "label": "BREAK LOISIRS · 1.6 HDi 75"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0F3N",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0F3N"
+   },
+   "label": "BREAK LOISIRS · 1.6 HDi 92 (DV6ATED4)"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0F6S"
+   },
+   "label": "BREAK LOISIRS · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0DCL&B0F=B0F7H",
+   "selections": {
+    "B0D": "B0DCL",
+    "B0F": "B0F7H"
+   },
+   "label": "BREAK LOISIRS · 1.9 D 71 (DW8B)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0FBX",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0FBX"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1,6 HDi 75 (DV6ETED M)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F6P",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F6P"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.1 i (TU1JP)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0FS1",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0FS1"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.4 i 75 (TU3A)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F6Q",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F6Q"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.4 i 75 (TU3JP)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F3U",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F3U"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.6 HDi 75"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F3N",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F3N"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.6 HDi 92 (DV6ATED4)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0FBW",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0FBW"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.6 HDi 92 (DV6DTED M)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F6S"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F7H",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F7H"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.9 D 71 (DW8B)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F2X",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F2X"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 2.0 HDi 90"
+  }
+ ]
+}
