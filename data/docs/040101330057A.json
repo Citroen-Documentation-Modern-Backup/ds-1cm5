@@ -1,18 +1,1 @@
-{
- "ref": "040101330057A",
- "refDisplay": "0401 01 330057A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM BE4 L ET CP 19 X 72 ET FAM AUTOMOBILES (MOTRICITE / RENFORCEE)",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CM5",
-   "variantKey": "B0D=B0DGF&B0F=B0F2X",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"040101330057A","refDisplay":"0401 01 330057A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM BE4 L ET CP 19 X 72 ET FAM AUTOMOBILES (MOTRICITE / RENFORCEE)","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CM5","variantKey":"B0D=B0DGF&B0F=B0F2X","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CM5)(B0F2X)(DBM35)(DCW65)(%MOTREN)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["mpr",{"catal":"0401","grp":"67","grp2":"01","maj":"20111022","numfich":"330057A"},[["appl",{},["{(?1CM5)(B0F2X)(DBM35)(DCW65)(%MOTREN)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00091252","path":"/img/pr/52/0009/00091252.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"00002222HX","refpg":"2222 HX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CM5)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X72 -CT 19X16"]]]],["reporg",{},[["monte",{},["DM52MR"]],["monte",{},["DM80MR"]]]]]],["pr",{"codesi":"009391","ref":"00002223PR","refpg":"2223 PR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CM5)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X72 - CT 19X16"]]]],["reporg",{},[["monte",{},["DMH0MR"]],["monte",{},["DM52MR"]],["monte",{},["DM80MR"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"130, 111, 11","shape":"circle"},[]]]]]]]]]]}
